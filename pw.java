@@ -4,4 +4,8 @@ class PW
 	{
 		//code
 	}
+	public voild m2()
+	{
+		//code2
+	}
 }
